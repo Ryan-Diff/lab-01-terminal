@@ -1,4 +1,5 @@
-```git clone https://github.com/Ryan-Diff/lab-01-terminal.git 
+```
+git clone https://github.com/Ryan-Diff/lab-01-terminal.git 
 
 cd `/alchemy/foundations/
 foundations-prep-/lab-101-terminal
@@ -13,18 +14,24 @@ touch instructions.md
 ls
 echo "Hello World!!" >> greeting.md
 ls 
-code . ```
+code . 
+```
 
 #header#
+
 ##medium header##
+
 ###tiny header###
 
 **I want to YELL**
+
 _but not really_ 
 
 *This 
+
 *should 
 *be 
+
 *bullets 
 
 1.Numbered  
