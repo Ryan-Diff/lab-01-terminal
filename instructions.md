@@ -15,6 +15,30 @@ echo "Hello World!!" >> greeting.md
 ls 
 code . ```
 
-##header##
+#header#
+##medium header##
+###tiny header###
+
+**I want to YELL**
+_but not really_ 
+
+*This 
+*should 
+*be 
+*bullets 
+
+1.Numbered  
+1.list
+    1.inlist
+    1.2 inlist
+        1.inlisteption
+        1.Running out of steam
+
+1.Finished  
+1.list 
+
+
+
+        
 
 
